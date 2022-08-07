@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá Pessoal 👋
 
 - 🔭 Hoje trabalho com análise de dados e rotinas automatizadas.
 - 🌱 Estudando ciências de dados. 
@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/smcco94">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=smcco94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smcco94&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=smcco94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smcco94&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
