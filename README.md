@@ -1,6 +1,6 @@
 ### Olá Pessoal 👋
 
-- 🔭 Hoje trabalho com análise de dados e rotinas automatizadas.
+- 🔭 Hoje trabalho com análise de dados e rotinas automatizadas. Segue lá --> https://www.linkedin.com/in/sergiomcastro/
 - 🌱 Estudando ciências de dados. 
 - 📫 Quer falar comigo? --> sergiomcastro94@gmail.com
 - 😄 Ele / Dele
